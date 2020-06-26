@@ -7,6 +7,7 @@ export const HeaderContainer = styled.div`
   display: flex;
   justify-content: space-between;
   margin-bottom: 25px;
+  font-family: "Righteous", cursive;
 `;
 
 export const LogoContainer = styled(Link)`
