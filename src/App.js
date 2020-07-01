@@ -11,6 +11,7 @@ import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/sign-in-and-sign-up
 import CheckoutPage from "./pages/checkout/checkout.component";
 
 import Header from "./components/header/header.component";
+import { Banner } from "./components/banner/banner.styles";
 
 import { selectCurrentUser } from "./redux/user/user.selectors";
 import { checkUserSession } from "./redux/user/user.actions";
@@ -19,10 +20,6 @@ import { createGlobalStyle } from "styled-components";
 const GlobalStyle = createGlobalStyle`
 body {
   font-family: 'Open Sans', sans-serif;
-
-  Header {
-    font-family: 'Righteous', cursive;
-  }
 }`;
 
 const App = ({ checkUserSession, currentUser }) => {
@@ -34,6 +31,7 @@ const App = ({ checkUserSession, currentUser }) => {
     <div>
       <Header />
       <GlobalStyle />
+      <Banner />
       <Switch>
         <Route exact path="/" component={HomePage} />
         <Route path="/shop" component={ShopPage} />
