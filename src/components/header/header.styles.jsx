@@ -8,7 +8,7 @@ export const HeaderContainer = styled.div`
   justify-content: space-between;
   margin: 0;
   font-family: "Righteous", cursive;
-  background-color: #f44336;
+  background-color: white;
 `;
 
 export const LogoContainer = styled(Link)`
