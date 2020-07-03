@@ -15,12 +15,6 @@ import Header from "./components/header/header.component";
 import { selectCurrentUser } from "./redux/user/user.selectors";
 import { checkUserSession } from "./redux/user/user.actions";
 
-import { createGlobalStyle } from "styled-components";
-const GlobalStyle = createGlobalStyle`
-body {
-  font-family: 'Open Sans', sans-serif;
-}`;
-
 const App = ({ checkUserSession, currentUser }) => {
   useEffect(() => {
     checkUserSession();
@@ -29,8 +23,6 @@ const App = ({ checkUserSession, currentUser }) => {
   return (
     <div>
       <Header />
-
-      <GlobalStyle />
       <Switch>
         <Route exact path="/" component={HomePage} />
         <Route path="/shop" component={ShopPage} />
