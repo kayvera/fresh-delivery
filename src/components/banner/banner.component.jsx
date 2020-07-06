@@ -8,7 +8,9 @@ const Banner = () => (
     <div className="banner">
       <ImgComp src={i1} />
       <div className="content1">
-        <h1 className="title">HEALTHY MEALS DELIVERED STRAIGHT TO YOUR HOME</h1>
+        <h1 className="title1">
+          HEALTHY MEALS DELIVERED STRAIGHT TO YOUR HOME
+        </h1>
         <span class="subtitle">Organic, Fresh, Ready-to-Eat</span>
       </div>
     </div>
