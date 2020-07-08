@@ -1,36 +1,36 @@
 const INITIAL_STATE = {
   sections: [
     {
-      title: "hats",
+      title: "protein",
       imageUrl: "https://i.ibb.co/W3CbjhL/pexels-photo-769289.jpg",
       id: 1,
-      linkUrl: "shop/hats",
+      linkUrl: "menu/protein",
     },
     {
-      title: "jackets",
+      title: "keto",
       imageUrl: "https://i.ibb.co/wSmpRZB/pexels-photo-1305063.jpg",
       id: 2,
-      linkUrl: "shop/jackets",
+      linkUrl: "menu/keto",
     },
     {
-      title: "sneakers",
+      title: "vegan",
       imageUrl: "https://i.ibb.co/vxLtrhs/pexels-photo-1893563.jpg",
       id: 3,
-      linkUrl: "shop/sneakers",
+      linkUrl: "menu/vegan",
     },
     {
-      title: "womens",
+      title: "bulk",
       imageUrl: "https://i.ibb.co/bvLrsKP/pexels-photo-3026808.jpg",
       size: "large",
       id: 4,
-      linkUrl: "shop/womens",
+      linkUrl: "menu/bulk",
     },
     {
-      title: "mens",
+      title: "cut",
       imageUrl: "https://i.ibb.co/L6PtCm7/pexels-photo-257816.jpg",
       size: "large",
       id: 5,
-      linkUrl: "shop/mens",
+      linkUrl: "menu/cut",
     },
   ],
 };
