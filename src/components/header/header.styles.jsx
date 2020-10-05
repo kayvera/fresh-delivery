@@ -13,8 +13,11 @@ export const HeaderContainer = styled.div`
 
 export const LogoContainer = styled(Link)`
   height: 100%;
-  width: 70px;
-  padding: 25px;
+  width: 300px;
+  padding-top: 25px;
+  padding-left: 10px;
+  padding-bottom: 25px;
+  text-decoration: none;
 `;
 
 export const OptionsContainer = styled.div`
@@ -31,4 +34,11 @@ export const OptionLink = styled(Link)`
   cursor: pointer;
   color: black;
   text-decoration: none;
+`;
+
+export const Logo = styled(Link)`
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
 `;
