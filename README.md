@@ -55,8 +55,7 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
+Mikayla Rivera - mikaylarvr@gmail.com
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 https://github.com/kayvera/fresh-delivery
