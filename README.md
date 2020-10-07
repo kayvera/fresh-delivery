@@ -1,26 +1,24 @@
-# Portfolio-Template
-A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers etc.
+# Fresh Delivery
+A meal prep application that allows you to order healthly meals that fit your lifestyle straight to your door.
 
 ### Highlights
-1. Setup is very easy and you get a portfolio template of your own for free.
-2. To add your details, you just need simple editing skills. No code changes required!
-3. Simple and Fast website User Interface.
+1. Full stack application built using react, redux, sass, node.js, and firebase
+2. Payment integration using stripe
+3. Ability to save cart history and Google authentication
 
-### Website UI Gallary
-#### About Tab
-![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
+### Fresh Delivery UI Gallary
+#### Homepage Tab
+![Homepage Tab](https://i.postimg.cc/NfXTQVyb/homepage-frsh.png)
 
-#### Skills Tab
-![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png)
+#### Menu Tab
+![Menu tab](https://i.postimg.cc/HL6zZ0TP/2.png)
 
-#### Project Tab
-![Project Tab](https://i.imgur.com/u4oyV6r.png)
+####Signin Tab
+![Signin Tab](https://i.imgur.com/u4oyV6r.png)
 
-#### Contact Tab
-![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png)
 
 ### Demo
-For Demo of this template you can visit http://0xprateek-portfolio-template.rf.gd
+For Demo of this application you can visit https://frsh-delivery.herokuapp.com/ (Heroku sometimes takes a moment to boot up)
 
 ### Quick Start
 If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
@@ -33,7 +31,7 @@ If you are reading this then I will assume that you know something about code an
 Any and all contributions, issues, features and tips are welcome.
 
 ### License
-**Portfolio-Template** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
+**Fresh Delivery** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ### Contact
 
