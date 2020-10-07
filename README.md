@@ -1,77 +1,41 @@
-# Fresh Delivery
-> Fresh Delivery is a meal prep application where user's can login and pick out meals based on their goals. This is a full stack application that uses firebase and node.js for its backend, redux for its state management, sass and styled components for styling, and react framework.  
+# Portfolio-Template
+A Portfolio/Resume website template for Programmers, Geeks, Developers, Hackers etc.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+### Highlights
+1. Setup is very easy and you get a portfolio template of your own for free.
+2. To add your details, you just need simple editing skills. No code changes required!
+3. Simple and Fast website User Interface.
 
-With Fresh Delivery it's easier to stick to your dieting goals with our affordable meals, you can choose between bulking, cutting, keto, vegan, and protein based meals. 
+### Website UI Gallary
+#### About Tab
+![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
 
-![](header.png)
+#### Skills Tab
+![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png)
 
-## Installation
+#### Project Tab
+![Project Tab](https://i.imgur.com/u4oyV6r.png)
 
-OS X & Linux:
+#### Contact Tab
+![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png)
 
-```sh
-npm install fresh-delivery --save
-```
+### Demo
+For Demo of this template you can visit http://0xprateek-portfolio-template.rf.gd
 
-Windows:
+### Quick Start
+If you are reading this then I will assume that you know something about code and want to make a resume website of yours then this open-source project may help you setup it to showcase all your creations without effort.
+- For adding your avatar , You have to replace images/my.jpg with your square photo [Perfect size : 160 x 160].
+- For changing background image, You need to replace images/floor.jpg with your prefered background.
+- For changing rest of the information, simply open index.html and you can easily understand everything.
 
-```sh
-edit autoexec.bat
-```
 
-## Usage example
+### Contributing
+Any and all contributions, issues, features and tips are welcome.
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+### License
+**Portfolio-Template** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+### Contact
 
-## Development setup
+For any Suggestion / Ideas ping me at [@prateekis1](https://twitter.com/prateekis1)
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Meta
-
-Mikayla Rivera - mikaylarvr@gmail.com
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-https://github.com/kayvera/fresh-delivery
-
-## Contributing
-
-1. Fork it (<https://github.com/kayvera/fresh-delivery/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
