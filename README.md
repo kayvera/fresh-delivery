@@ -1,11 +1,11 @@
-# Product Name
-> Short blurb about what your product does.
+# Fresh Delivery
+> Fresh Delivery is a meal prep application where user's can login and pick out meals based on their goals. This is a full stack application that uses firebase and node.js for its backend, redux for its state management, sass and styled components for styling, and react framework.  
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+With Fresh Delivery it's easier to stick to your dieting goals with our affordable meals, you can choose between bulking, cutting, keto, vegan, and protein based meals. 
 
 ![](header.png)
 
@@ -14,7 +14,7 @@ One to two paragraph statement about your product and what it does.
 OS X & Linux:
 
 ```sh
-npm install my-crazy-module --save
+npm install fresh-delivery --save
 ```
 
 Windows:
@@ -57,13 +57,13 @@ npm test
 
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+https://github.com/kayvera/fresh-delivery
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/kayvera/fresh-delivery/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
